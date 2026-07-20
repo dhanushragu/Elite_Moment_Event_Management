@@ -6,17 +6,13 @@ A modern, elegant, and fully responsive **Event Management Website** built using
 
 ## 🌐 Live Preview
 
-> Add your GitHub Pages link here after deployment.
-
-Example:
-
-https://yourusername.github.io/Elite-Moments/
+https://elite-moment-event-management.vercel.app/
 
 ---
 
 # 📸 Preview
 
-> Add website screenshots here.
+> website screenshots
 
 Example:
 
